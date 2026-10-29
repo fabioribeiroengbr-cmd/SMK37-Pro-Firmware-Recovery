@@ -1,0 +1,19 @@
+# Material privado e artefatos excluídos
+private*/
+originals/
+evidence/
+logs/
+firmware/
+build*/
+*.bin
+*.fwsc
+*.uf2
+*.elf
+*.exe
+*.dll
+*.zip
+*.jsonl
+.env
+.env.*
+*.pem
+*.key
